@@ -4,6 +4,10 @@ This application lets you sign in, open any movie page, see the rating, cast lis
 store into a file some of the most relevant user reviews for that specific movie and also give your own review.
 
 What I learned:
+
 •	BeautifulSoup
+
 •	Selenium
+
 •	Tkinter
+
